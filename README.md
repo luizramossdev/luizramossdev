@@ -47,7 +47,7 @@ Quero evoluir da construção de projetos assistidos por IA para o desenvolvimen
 ## 📫 Contato
 
 - **GitHub:** [@luizramossdev](https://github.com/luizramossdev)
-- **LinkedIn:** em breve
+- **LinkedIn:** [Luiz Gustavo Ramos de Freitas](https://www.linkedin.com/in/luiz-gustavo-ramos-de-freitas/)
 
 ---
 
